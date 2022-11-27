@@ -1,0 +1,22 @@
+o html tem diferentes "tags" que são comandos como se html fosse realmente
+uma linguagem de programação.
+
+O BASICO:
+para criar o documento usamos o comamdo "<!DOCTYPE html>" sem as aspas para definir que o documento é html.
+logo depois colocamos "<html>" no depois do "<!DOCTYPE html> e "</html>" no final, tudo sem as aspas para ai sim começarmos a escrever.
+colocamos o <head> depois do "<html>" para ser o inicio do cabeçalho e "</head>" para fechar o cabeçalho.
+dentro dele tu pode opcionalmente colocar por exemplo o titulo que vai ficar na pagina...
+assim ficaria:
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PAGINA INICIAL</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+
+obs: o body nós iremos ver mais pra frente...
+o "<title>" e o "</title>" são pra definir o titulo do cabeçalho.
